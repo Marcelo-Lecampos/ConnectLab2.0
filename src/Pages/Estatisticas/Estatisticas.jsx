@@ -13,9 +13,6 @@ export const Estatisticas = (props) => {
 
   useEffect(() => {
     userDevices();
-    console.log("listDevices: ", listDevices);
-    console.log("local description", listDevices[0]?.local.description);
-    console.log("local description", listDevices[0]?.device.type);
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   if (loading) {
