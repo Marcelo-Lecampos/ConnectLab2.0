@@ -26,5 +26,8 @@ export default defineConfig({
     watch: {
       usePolling: true,
     }
-  }
+  },
+  build: {
+    chunkSizeWarningLimit: 1600,
+  }, // adicionado para evitar o erro de chunk no build
 });
