@@ -13,7 +13,7 @@ export const Container = styled.div`
     padding-bottom: 51rem;
     width: 66vw;
   }
-  @media (max-width: 900) {
+  @media (max-width: 900px) {
     padding-bottom: 38rem;
     width: 98vw;
   }
