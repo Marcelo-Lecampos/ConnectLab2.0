@@ -1,0 +1,1 @@
+export {DevicesHome} from "./DevicesHome";

@@ -1,0 +1,1 @@
+export {LinkStyled} from './LinkStyled.jsx'
