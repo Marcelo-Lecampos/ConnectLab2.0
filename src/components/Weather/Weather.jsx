@@ -45,9 +45,11 @@ export const Weather = (props) => {
     if (weatherID > 800) return cloudy;
   }
 
+  // 
+
   return (
     <>
-      <TempoContainer bg={weatherID(data?.weather[0]?.id)}>
+    <TempoContainer bg={weatherID(data?.weather[0]?.id)}>
         <div>
           <img
             src={`https://openweathermap.org/img/wn/${data?.weather[0]?.icon}@2x.png`}
