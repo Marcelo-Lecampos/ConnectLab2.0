@@ -70,6 +70,17 @@ Tudo nesse projeto foi difícil, em todas as partes haviam situações novas. Ho
 Aprendi a usar a documentação e fazer pesquisas na base da dor. 
 
 Saio desse projeto com a humildade de reconhecer que me falta muito, mas tb com a confiança que estou no caminho certo.
+
+## ⚙ Configuração
+
+1- Para instalar as dependências:
+> npm i
+
+2- Para iniciar a aplicação:
+> npm run dev
+
+
+---
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
