@@ -5,12 +5,19 @@ Gerenciador de IOT feito em React desenvolvido por mim para ser avaliado ao fim 
 
 ## Tabela de Conteúdos
 
+- [Demonstração](#Demonstração)
 - [Tecnologias](#Tecnologias)
 - [Features](#Features)
-- [Demonstração](#Demonstração)
 - [Aprendizados](#Aprendizados)
 - [Configuração](#Configuração)
 - [Licença](#Licença)
+
+
+## Demonstração
+
+- [Vídeo](https://youtu.be/fGDxn27uRqU)
+- [Site](https://connect-lab20.netlify.app)
+    - [x]  No primeiro acesso é possível que demore um pouco o login devido ao backend
 
 
 ## Tecnologias:
@@ -28,13 +35,6 @@ Gerenciador de IOT feito em React desenvolvido por mim para ser avaliado ao fim 
 - React-spinners; 
 - Styled-react-modal;
 - Awesome-snackbar  
-
-
-## Demonstração
-
-- [Vídeo](https://youtu.be/fGDxn27uRqU)
-- [Site](https://connect-lab20.netlify.app)
-    - [x]  No primeiro acesso é possível que demore um pouco o login devido ao backend
 
 
 ## Features
