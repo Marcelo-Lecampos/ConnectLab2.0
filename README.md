@@ -9,7 +9,7 @@ Gerenciador de IOT feito em React desenvolvido por mim para ser avaliado ao fim 
 - [Features](#Features)
 - [Demonstração](#Demonstração)
 - [Aprendizados](#Aprendizados)
-- [Configuração](#Configuração⚙)
+- [Configuração](#Configuração)
 - [Licença](#Licença)
 
 
@@ -34,6 +34,7 @@ Gerenciador de IOT feito em React desenvolvido por mim para ser avaliado ao fim 
 
 - [Vídeo](https://youtu.be/fGDxn27uRqU)
 - [Site](https://connect-lab20.netlify.app)
+    - [x]  No primeiro acesso é possível que demore um pouco o login devido ao backend
 
 
 ## Features
@@ -60,9 +61,6 @@ Gerenciador de IOT feito em React desenvolvido por mim para ser avaliado ao fim 
 
 
 
-
-
-## Ilustrações
 ## Aprendizados
 
 Tudo nesse projeto foi difícil, em todas as partes haviam situações novas. Houve momentos de desespero tentando entender um erro e momentos de alegria quando os superei. 
@@ -71,7 +69,7 @@ Aprendi a usar a documentação e fazer pesquisas na base da dor.
 
 Saio desse projeto com a humildade de reconhecer que me falta muito, mas tb com a confiança que estou no caminho certo.
 
-## Configuração ⚙ 
+## Configuração
 
 1- Para instalar as dependências:
 > npm i
