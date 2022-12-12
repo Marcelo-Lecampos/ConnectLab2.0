@@ -2,7 +2,6 @@
 import { useEffect, useState } from "react";
 import {
   ModalButton,
-  ButtonStyle,
   SkeletonConnect,
   LoadingContainer,
 } from "@components/";
@@ -46,6 +45,9 @@ export const Devices = (props) => {
     const produtoFiltrado = produtos.filter((produto) =>
       produto.name.toLowerCase().includes(search.toLowerCase()),
     );
+
+    // este botão não está funcionando pórque não temos um estado para limpar, para corrigir basta criar um estado para limpar o input e passar ele como value no input: exemplo: value={search} e no botão passar
+
     return (
       <Container>
         <Helmet>
@@ -67,7 +69,6 @@ export const Devices = (props) => {
                 onChange={handleSearch}
               />
             </div>
-            <ButtonStyle type="reset">Limpar</ButtonStyle>
           </FormDevices>
         </Header>
         <ProdutosContainer>

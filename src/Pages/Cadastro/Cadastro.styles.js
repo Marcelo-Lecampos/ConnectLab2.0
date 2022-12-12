@@ -7,7 +7,7 @@ export const CadastroContainer = styled.div`
   flex-direction: column;
   align-items: center;
   background-color: ${theme.darkWhite};
-  height: 69rem;
+  height: 75rem;
   width: 84rem;
   border-radius: 1rem;
   padding: 4.4rem 4.8rem;

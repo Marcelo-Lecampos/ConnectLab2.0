@@ -22,9 +22,7 @@ export const SkeletonConnect = () => {
             <Skeleton width={200} height={10} style={{ marginTop: "0rem" }} />
             <Skeleton height={20} style={{ marginTop: "1rem", width: "95%" }} />
           </div>
-          <buttom>
-            <Skeleton width={80} height={20} style={{ marginTop: "2rem" }} />
-          </buttom>
+       
         </FormDevices>
       </Header>
       <ProdutosContainer>
@@ -55,3 +53,8 @@ export const SkeletonConnectCards = ({ cards }) => {
       </Card>
     ));
 };
+
+
+// <buttom>
+// <Skeleton width={80} height={20} style={{ marginTop: "2rem" }} />
+// </buttom>

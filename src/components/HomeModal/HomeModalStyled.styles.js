@@ -4,7 +4,7 @@ import {theme} from "@/themes/theme";
 
 export const StyledModal = Modal.styled`
   width: 31rem;
-  height: 53rem;
+  height: 60rem;
   border-radius: 2rem;
   padding: 2rem;
   background-color: #D7DBDD;
