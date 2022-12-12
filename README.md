@@ -9,7 +9,7 @@ Gerenciador de IOT feito em React desenvolvido por mim para ser avaliado ao fim 
 - [Features](#Features)
 - [Demonstração](#Demonstração)
 - [Aprendizados](#Aprendizados)
-- [Configuração](#Configuração)
+- [Configuração](#⚙Configuração)
 - [Licença](#Licença)
 
 
@@ -78,7 +78,6 @@ Saio desse projeto com a humildade de reconhecer que me falta muito, mas tb com 
 
 2- Para iniciar a aplicação:
 > npm run dev
-
 
 ---
 ## Licença
