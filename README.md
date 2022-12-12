@@ -9,8 +9,8 @@ Gerenciador de IOT feito em React desenvolvido por mim para ser avaliado ao fim 
 - [Features](#Features)
 - [Demonstração](#Demonstração)
 - [Aprendizados](#Aprendizados)
-- [Configuração](#Configuração)
-- [Licença](#Licensas)
+- [Configuração](#⚙Configuração)
+- [Licença](#Licensa)
 
 
 ## Tecnologias:
