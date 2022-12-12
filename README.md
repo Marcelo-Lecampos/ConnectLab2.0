@@ -71,7 +71,7 @@ Aprendi a usar a documentação e fazer pesquisas na base da dor.
 
 Saio desse projeto com a humildade de reconhecer que me falta muito, mas tb com a confiança que estou no caminho certo.
 
-## ⚙ Configuração
+## Configuração ⚙ 
 
 1- Para instalar as dependências:
 > npm i
